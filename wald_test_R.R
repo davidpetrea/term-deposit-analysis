@@ -5,7 +5,6 @@ library(tidyverse)
 getwd()
 setwd("C:/Users/wyver/Desktop/deposit-analysis")
 
-
 data = read.csv("data/selected_data.csv")
 
 
